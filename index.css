@@ -206,7 +206,7 @@ header .ewalletLogo h1 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  
+  width:100vw;
 }
 
 .add__type {
