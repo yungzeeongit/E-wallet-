@@ -196,8 +196,8 @@ header .ewalletLogo h1 {
   display: flex;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 
 .add__container {
@@ -206,7 +206,7 @@ header .ewalletLogo h1 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 600px;
+  
 }
 
 .add__type {
@@ -263,7 +263,7 @@ header .ewalletLogo h1 {
 
 .add__btn {
   font-size: 3.5rem;
-  background: black;
+  background: #fff;
   border: 2px;
   color: #28b9b5;
   cursor: pointer;
